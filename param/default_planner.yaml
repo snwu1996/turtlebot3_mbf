@@ -1,2 +1,4 @@
 base_global_planner: NavfnROS
-base_local_planner: DWAPlannerROS
+# base_local_planner: DWAPlannerROS
+# base_global_planner: GlobalPlanner
+base_local_planner: TebLocalPlannerRos
